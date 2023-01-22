@@ -208,7 +208,7 @@ section {
 .headline h1 {
     display: flex;
     justify-content: center;
-    padding: 9rem;
+    padding-top: 5rem;
     font-size: 40px;
     font: bold;
     color: rgb(196, 34, 34);
@@ -217,7 +217,7 @@ section {
 
 .dv {
     text-align: center;
-    margin-top: -8rem;
+    margin-top: 3rem;
     font-size: 30px;
     font: bold;
     color: rgb(182, 26, 26);
