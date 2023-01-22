@@ -342,7 +342,7 @@ h2 {
     grid-template-columns: 66% auto;
     background: #6E00FF;
     padding: 0;
-    height: 90vh;
+    height: 70vh;
     }
     
     .content {
@@ -364,7 +364,7 @@ h2 {
     .hero-design {
       display: unset;
       margin-left: -50%;
-      margin-top: 15%;
+      margin-top: 9%;
       width: 100%;
     }
 
