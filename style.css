@@ -255,8 +255,13 @@ h2 {
 }
 
 .språkdiv p {
-  margin-bottom: -2rem;
+  margin-bottom: -4rem;
 }
+
+.övriga {
+  margin-bottom: 4rem;
+}
+
 
                             /*Media aka responsiv 800px*/
 
