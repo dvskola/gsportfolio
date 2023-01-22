@@ -254,6 +254,10 @@ h2 {
 
 }
 
+.språkdiv p {
+  margin-bottom: -2rem;
+}
+
                             /*Media aka responsiv 800px*/
 
 @media only screen and (min-width: 800px) {
