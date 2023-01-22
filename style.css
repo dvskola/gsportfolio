@@ -173,11 +173,15 @@ section {
     display: inline;
 }
 
-.footer > .footer-header > .footer-title {
+.footer-title {
     display: inline-block;
     font-size: 22px;
     color: aliceblue;
     padding: 13px; 
+}
+
+.footer-links {
+  display: inline;
 }
 
                             /*CV*/
